@@ -1,6 +1,6 @@
 # Covid-19 Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### [Live Site](https://covid-tracker-adityaverm-a.netlify.app/)
 
