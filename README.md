@@ -8,10 +8,10 @@
 
 
 
-This is my versionof website, that was orginally made by [JS Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls).
+This is my version of website, that was orginally made by [JS Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls).
 
 
-Here, I've create a full COVID-19 Tracker. I've used React, Charts.JS and Material UI.
+Here, I've created a full COVID-19 Tracker. I've used React, Charts.JS and Material UI.
 
 I got a strong understanding of React's workflow and the use of hooks, while making this project.
 
